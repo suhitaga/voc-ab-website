@@ -1,7 +1,5 @@
-/*!
- * Font Awesome Free 5.0.13 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */
+/*CSS for fonts
+Free fonts from https://www.fontawesome.com*/
 .fa,
 .fas,
 .far,
@@ -185,8 +183,6 @@
 .fa-inverse {
   color: #fff; }
 
-/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-readers do not read off random characters that represent icons */
 .fa-500px:before {
   content: "\f26e"; }
 
